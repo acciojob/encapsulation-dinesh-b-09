@@ -4,12 +4,6 @@ public class RWOnly
 {
     private String name;
 
-    // Constructor
-    public RWOnly(String name)
-    {
-        this.name = name;
-    }
-
     // Getter for name
     public String getName()
     {
